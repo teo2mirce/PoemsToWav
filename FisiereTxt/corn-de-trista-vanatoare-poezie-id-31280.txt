@@ -1,0 +1,28 @@
+TypeError: null is not an object (evaluating 'a.createElement')
+
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:151 in Gx
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:150 in Wa
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:377
+TypeError: undefined is not an object (evaluating 'google.search.cse')
+
+  https://cse.google.com/cse/cse.js?cx=003072884938153785389:b7phe8u2zoo:10 in scb
+Aș lua un corn, un corn tăcut,
+Și m-aș sui pe-un vârf de munte,
+Să vreau să cânt, să-l pun să cânte
+Durerea că te-am cunoscut.
+
+Să-mi fac din aripile frânte
+Un fuselaj necunoscut,
+Să fug cu tine în trecut,
+Un alt noroc să te descânte.
+
+Să înflorești de timpuriu,
+Curată, neagră şi fierbinte,
+Să nu ne cumpărăm morminte,
+Să mă cunoști și să te știu
+Ca o pustie în pustiu.
+
+Dar, vai, ce este înainte?
+
+(Iubiți-vă pe tunuri, 1981)
+

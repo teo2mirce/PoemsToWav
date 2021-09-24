@@ -1,0 +1,47 @@
+TypeError: null is not an object (evaluating 'a.createElement')
+
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:151 in Gx
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:150 in Wa
+  https://www.google.com/cse/static/element/cc267ab8871224bd/cse_element__ro.js?usqp=CAM%3D:377
+TypeError: undefined is not an object (evaluating 'google.search.cse')
+
+  https://cse.google.com/cse/cse.js?cx=003072884938153785389:b7phe8u2zoo:10 in scb
+Am sa fug cu tine-n munte sa uitam cuvîntul „daca”
+Am sa fug cu tine-n munte sa uitam cuvîntul „nu”
+Hai sa conjugam ninsoarea si uitarea eu si tu
+Timpul pe deasupra noastra ca o sanie sa treaca.
+
+Am sa fug cu tine-n munte sa uitam cuvîntul „însa”
+Am sa fug cu tine-n munte sa uitam cuvîntul „hai”
+Vai, vom face repetitii pentru iad si pentru rai.
+De ecouri mari de piatra vei fi rîsa, vei fi plînsa.
+
+Am sa fug cu tine-n munte sa uitam cuvîntul „pleaca”
+Am sa fug cu tine-n munte sa uitam cuvîntul”taci”
+Prin albastrele troiene sa fim liberi si saraci, 
+Sa uitam ce-nseamna „totusi”, sa uitam ce-nseamna „daca”.
+
+Sa uitam academia, tribunalul, primaria, 
+Veverite fara nume ne predea curate legi, 
+Cînd se va rasti furtuna vorba mea s-o întelegi
+Cînd vor susura izvoare afla c-a murit mînia.
+
+Si de unde pîna unde sa uitam ce mai înseamna
+Sa ramînem ai naturii, botezati în necuprins, 
+La sfîrsitul toamnei lumii sa ne apucam de nins
+De Craciun ne fie iarasi dor de vara si de toamna.
+
+Vai, sînt rîuri pe aicea care merg spre noi cuminte
+Vino, sa spalam în ele pata lumii de noroi, 
+Ca într-un tîrziu si muntii sa învete de la noi, 
+Darul de-a trai mai liber fara a rosti cuvinte.
+
+Sînt satul de vorbe, vorbe, a nimic aducatoare, 
+Vino sa uitam cuvinte si sa învatam a fi, 
+De cuvinte fara noima, de sonoritati pustii, 
+Sa spalam întrega fire, sa traim cu-ndurerare.
+
+Sa uitam ce-nseamna „lume”, si „avere”, si „putere”
+Sa uitam cuvîntul „daca”, sa uitam cuvîntul „da”, 
+Si-ntr-un veac fara cuvinte, ca doi cai fara de sa
+Sa traim tacînd iubirea, fiindca totul e tacere.
